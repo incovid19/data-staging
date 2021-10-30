@@ -7,10 +7,10 @@
 
 ### JSON endpoints 
 
-       |  Link to API                                              | Description            |
- | -------------------------------------------------------- | ---------------------- |
- | <https://data.incovid19.org/v4/min/timeseries.min.json>  | Daily numbers across C,R,D and Tested per state (historical data).         |
- | <https://data.incovid19.org/v4/min/data.min.json>  | Current day numbers across districts and states.   |
+|  Link to API                                              | Description            |
+| -------------------------------------------------------- | ---------------------- |
+| <https://data.incovid19.org/v4/min/timeseries.min.json>  | Daily numbers across C,R,D and Tested per state (historical data).         |
+| <https://data.incovid19.org/v4/min/data.min.json>  | Current day numbers across districts and states.   |
 
 **Note**: Please consider using the above endpoints for all your data needs. All the data we show on the website is fuelled by the above endpoints.
 
@@ -33,6 +33,3 @@
 | cowin_vaccine_data_statewise      | <http://data.incovid19.org/csv/latest/cowin_vaccine_data_statewise.csv>  | Key data points from CoWin database at a state level                              |
 | cowin_vaccine_data_districtwise      | <http://data.incovid19.org/csv/latest/cowin_vaccine_data_districtwise.csv>  | Key data points from CoWin database at a district level                           |
 
-
-
-....................................................
