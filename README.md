@@ -3,7 +3,7 @@
 ### Files available
 
 - Aggregated sheets provide aggregated data at the district/state levels in csv format. 
-- V4 json endpoints. These are the json apis that are used by the website to show all the statistics on the site. These can be used by developers and analysts who have knowledge of json parsing (recommended approach).
+- Json endpoints. These are the json apis that are used by the website to show all the statistics on the site. These can be used by developers and analysts who have knowledge of json parsing (recommended approach).
 
 ### JSON endpoints 
 
