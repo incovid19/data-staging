@@ -11,11 +11,12 @@ All the data APIs that were available at data.covid19india.org are now available
 
 #### CSV endpoints
 
-| Sheet Name                    | Link to CSV                                                                 | Description |
+#### Aggregated Sheets (CSV)
+| Sheet Name                    | Link to CSV                                                                 | Description                                                                                     |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | case_time_series              | <https://data.incovid19.org/csv/latest/case_time_series.csv>              | India level timeseries for Confirmed, Recovered and Deceased cases
-| States                        | <https://data.incovid19.org/csv/latest/states.csv>                        | Statewise timeseries of Confirmed, Recovered and Deceased numbers.   
-| Districts                        | <https://data.incovid19.org/csv/latest/districts.csv>                  | Districtwise timeseries of Confirmed, Recovered and Deceased numbers.                           |
+| states                        | <https://data.incovid19.org/csv/latest/states.csv>                        | Statewise timeseries of Confirmed, Recovered and Deceased numbers.   
+| districts                        | <https://data.incovid19.org/csv/latest/districts.csv>                  | Districtwise timeseries of Confirmed, Recovered and Deceased numbers.                           |
 | state_wise_daily              | <https://data.incovid19.org/csv/latest/state_wise_daily.csv>              | Statewise per day delta of Confirmed, Recovered and Deceased numbers.  
 | state_wise                    | <https://data.incovid19.org/csv/latest/state_wise.csv>                    | Statewise cumulative numbers till date.                                                 |                                        
 | district_wise                 | <https://data.incovid19.org/csv/latest/district_wise.csv>                 | Districtwise Cumulative numbers till date. |
