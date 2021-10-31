@@ -27,3 +27,5 @@ All the data APIs that were available at data.covid19india.org are now available
 | vaccine_doses_administered_statewise      | <https://data.incovid19.org/csv/latest/vaccine_doses_statewise_v2.csv>  | Number of vaccine doses administered statewise - Collected from MOHFW daily bulletin                              |
 | cowin_vaccine_data_statewise      | <https://data.incovid19.org/csv/latest/cowin_vaccine_data_statewise.csv>  | Key data points from CoWin database at a state level                              |
 | cowin_vaccine_data_districtwise      | <https://data.incovid19.org/csv/latest/cowin_vaccine_data_districtwise.csv>  | Key data points from CoWin database at a district level                           |
+
+**Note**: There could be a slight delay in serving the CSV endpoints. We hope to get all the CSV endpoints working very soon.
