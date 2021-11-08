@@ -1,4 +1,5 @@
-All the data APIs that were available at [data.covid19india.org](https://data.covid19india.org) are now available at [data.incovid19.org](https://data.incovid19.org).
+We are working to make the data APIs servicing the downstream CSVs available at the earliest.
+All the data APIs that were available at [data.covid19india.org](https://data.covid19india.org) will be functional at [data.incovid19.org](https://data.incovid19.org) as soon as our data consistency checks are completed.
 
 ### JSON endpoints 
 
