@@ -8,13 +8,11 @@ The following data APIs are functional. We have ensured that the data APIs gener
 | <https://data.incovid19.org/v4/min/data.min.json>  | Current day numbers across districts and state   |
 | <https://data.incovid19.org/v4/min/timeseries-XX.min.json>  (where XX is a two letter state code) e.g <https://data.incovid19.org/v4/min/timeseries-KA.min.json>  | District-level daily timeseries data containing Confirmed, Recovered, Deceased, Vaccinated and Tested per state   |  
 
-In addition, district-level daily timeseries data are available in per-state JSON files in the same directory, with URLs of the form `https://data.incovid19.org/v4/min/timeseries-XX.min.json`, where `XX` is a two letter state code.
-
 **Note**: These are the same data APIs that were fueling the [covid19india.org](https://www.covid19india.org) website. These data APIs are responsible for all the data on [incovid19.org](https://www.incovid19.org/) as well.
 
 #### Aggregated Sheets (CSV)
 
-| Sheet Name                    | Link to CSV                                                                 | Description                                                                                     |
+| CSV Data                    | CSV Data Link                                                                 | Contents                                                                                     |
 | ----------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | case_time_series              | <https://data.incovid19.org/csv/latest/case_time_series.csv>              | India level timeseries for Confirmed, Recovered and Deceased cases
 | states                        | <https://data.incovid19.org/csv/latest/states.csv>                        | Statewise timeseries of Confirmed, Recovered and Deceased numbers.   
