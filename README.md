@@ -1,12 +1,12 @@
-We are working to make the data APIs servicing the downstream CSVs available at the earliest.
-All the data APIs that were available at [data.covid19india.org](https://data.covid19india.org) will be functional at [data.incovid19.org](https://data.incovid19.org) as soon as our data consistency checks are completed.
+The following data APIs are functional. We have ensured that the data APIs generate outputs in the same format as earlier (data.covid19india.org) to ensure continuity in your downstream applications.
 
 ### JSON endpoints 
 
 |  Link to API                                              | Description            |
 | -------------------------------------------------------- | ---------------------- |
-| <https://data.incovid19.org/v4/min/timeseries.min.json>  | Daily numbers across C,R,D and Tested per state  |
+| <https://data.incovid19.org/v4/min/timeseries.min.json>  | Daily numbers across Confirmed, Recovered, Deceased, Vaccinated and Tested per state  |
 | <https://data.incovid19.org/v4/min/data.min.json>  | Current day numbers across districts and state   |
+| <https://data.incovid19.org/v4/min/timeseries-XX.min.json>  (where XX is a two letter state code) e.g <https://data.incovid19.org/v4/min/timeseries-KA.min.json>  | District-level daily timeseries data containing Confirmed, Recovered, Deceased, Vaccinated and Tested per state   |  
 
 In addition, district-level daily timeseries data are available in per-state JSON files in the same directory, with URLs of the form `https://data.incovid19.org/v4/min/timeseries-XX.min.json`, where `XX` is a two letter state code.
 
