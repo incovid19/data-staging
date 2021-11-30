@@ -23,8 +23,3 @@ The following data APIs are functional. We have ensured that the data APIs gener
 | state_wise_daily | <https://data.incovid19.org/csv/latest/state_wise_daily.csv> | Statewise per day delta of Confirmed, Recovered and Deceased numbers. ** <br/>** Will be updated soon |
 | state_wise      | <https://data.incovid19.org/csv/latest/state_wise.csv>      | Statewise cumulative numbers till date. ** <br/>** Will be updated soon |
 | district_wise          | <https://data.incovid19.org/csv/latest/district_wise.csv>      | Districtwise Cumulative numbers till date. ** <br/> ** Will be updated soon |
-| sources_list                  | <https://data.incovid19.org/csv/latest/sources_list.csv>                  | List of sources that we are using.                                                              |
-| rtpcr_samples_collected       | <https://data.incovid19.org/csv/latest/icmr_rtpcr_tests_daily.csv>          | Number of RTPCR samples collected statewise in ICMR Application                             |
-| vaccine_doses_administered_statewise      | <https://data.incovid19.org/csv/latest/vaccine_doses_statewise_v2.csv>  | Number of vaccine doses administered statewise - Collected from MOHFW daily bulletin                              |
-| cowin_vaccine_data_statewise      | <https://data.incovid19.org/csv/latest/cowin_vaccine_data_statewise.csv>  | Key data points from CoWin database at a state level                              |
-| cowin_vaccine_data_districtwise      | <https://data.incovid19.org/csv/latest/cowin_vaccine_data_districtwise.csv>  | Key data points from CoWin database at a district level                           |
